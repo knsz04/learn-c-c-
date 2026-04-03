@@ -1,2 +1,2 @@
-# learn-c-c-
+# learn-c-c++
 learning c and c++
