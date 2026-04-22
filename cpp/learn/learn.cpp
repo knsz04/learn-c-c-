@@ -41,6 +41,19 @@ int main(){
     // cout << "He said: \"The symbol is \'\\\'.\""<< endl;
 
 
-    
+    // string s = "23453(Mary)24565";
+    // s.erase(0,6);
+    // s.erase(4,6);
+    // cout << s << endl;
 
-}
+
+//     string s = "abcdefg";
+    
+//     cout << string::npos << endl;
+    
+//     return 0;
+
+
+        
+
+ }
